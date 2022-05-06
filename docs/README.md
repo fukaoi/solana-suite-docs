@@ -1,3 +1,3 @@
-# Headline
+# Quick Start
 
-> An awesome project.
+## Installation
