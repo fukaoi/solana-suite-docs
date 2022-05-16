@@ -1,6 +1,11 @@
+
+>Fee payer partial sign flow
+
 @startuml
+!define LIGHTORANGE
+!$FONTNAME = "Meiryo"
+!includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
 autonumber
-title feepayer partial sign flow
 
 actor "Client/User" as client
 collections "Solana Suite" as sdk
