@@ -1,4 +1,3 @@
-
 @startuml
 
 header: Fee payer partial signed transfer
