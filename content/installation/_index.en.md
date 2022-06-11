@@ -1,16 +1,19 @@
-# Quick Start
+---
+title: Installation
+weight: 15
+---
 
-## Installation
+## Install
 
 install core [package](https://)
 
-```bash
+```js
 npm install @solana-suite/core
 ```
 
 install nft [package](https://)
 
-```bash
+```js
 npm install @solana-suite/nft
 ```
 
