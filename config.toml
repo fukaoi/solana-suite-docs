@@ -1,8 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Solana suite docs'
-theme = "hugo-theme-learn"
-# markup.highlight.noClasses=false
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
-
