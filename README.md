@@ -14,18 +14,22 @@ Solana suite is a convenience package for developing the Solana ecosystem. Using
 * A little knowledge of Solana is enough
 * Shorten the source code
 * Compatibility of different packages is ensured
+* Write code once, run it on Node.js and Browser
 
 #### Bundled Libraries
 
-* @solana-suite/core
+<mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">core</mark>
 
+A library with basic functions such as creating a wallet, mint tokens, and transferring tokens. this library is required to use Solana Suite.
 
+<mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">nft</mark>
 
-* @solana-suite/nft
+NFT mint, transfer metadata search, and other general NFT functions. It includes the library of Metaplex, and supports Arweave and nft.storage as a destination for uploading NFT content.
 
+<mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">phantom</mark>
 
+Connect to the Phantom wallet to enable the issuance of tokens and NFTs.
 
-* @solana-suite/phantom\
+<mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">shared</mark>
 
-* @solana-suite/shared
-
+Includes common functions in Solana Suite libraries, such as RPC server connection, configuration files, etc.
