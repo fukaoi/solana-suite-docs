@@ -5,20 +5,23 @@
 {% endhint %}
 
 ## Libraries
+
 @solana-suite/shared library is a dependency and does not need to be installed explicitly
 
-Basic library
+* Basic library
 
 ```shell
 npm install @solana-suite/core
 ```
 
-Nft library
+* Nft library
+
 ```bash
 npm install @solana-suite/nft
 ```
 
-Phantom wallet relation library
+* Phantom wallet relation library
+
 ```shell
 npm install @solana-suite/phantom
 ```
