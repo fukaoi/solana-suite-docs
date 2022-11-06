@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Solana Suite](README.md)
+* [Introduction](README.md)
 
 ## Usage
 
