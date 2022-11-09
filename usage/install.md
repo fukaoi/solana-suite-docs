@@ -25,3 +25,9 @@ npm install @solana-suite/nft
 ```shell
 npm install @solana-suite/phantom
 ```
+
+* Common library in Solana Suite
+
+```shell
+npm install @solana-suite/shared
+```
