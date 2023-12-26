@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Usage
 
-* [Install](usage/install.md)
+* [Install](README.md)
 * [Library Description](usage/library-description.md)
+
+***
+
+* [API Reference](https://api-reference.solana-suite.org/)

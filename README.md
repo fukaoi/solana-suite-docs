@@ -1,35 +1,33 @@
-# Solana Suite
+# Install
 
+{% hint style="info" %}
+**Good to know:** Install only the necessary libraries: core, nft, phantom. Libraries such as @solana/web3.js and @metaplex-foundation/js are installed as dependencies and do not need to be installed explicitly.
+{% endhint %}
 
+## Libraries
 
-<figure><img src=".gitbook/assets/68747470733a2f2f6261666b726569626b736a79327364736b766372726c7365326c7762736b617375623336627370696475626537726c6f7a687264377773736736692e697066732e6e667473746f726167652e6c696e6b2f.png" alt=""><figcaption></figcaption></figure>
+@solana-suite/shared library is a dependency and does not need to be installed explicitly
 
-Making Solana Development Accessible to All Engineers. "Solana" has overwhelming processing speed and low cost compared to many blockchains. SolanaSuite is an SDK library for more efficient development with Solana.
+* Basic library
 
-Solana suite is a convenience package for developing the Solana ecosystem. Using it will speed up your development. By using Solana Suite allows for rapid development of blockchain products.
+```shell
+npm install @solana-suite/core
+```
 
-## Feature
+* Nft library
 
-* Developer friendly
-* A little knowledge of Solana is enough
-* Shorten the source code
-* Compatibility of different packages is ensured
-* Write code once, run it on Node.js and Browser
+```bash
+npm install @solana-suite/nft
+```
 
-## Bundled Libraries
+* Phantom wallet relation library
 
-#### <mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">core</mark>
+```shell
+npm install @solana-suite/phantom
+```
 
-A library with basic functions such as creating a wallet, mint tokens, and transferring tokens. this library is required to use Solana Suite.
+* Common library in Solana Suite
 
-#### <mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">nft</mark>
-
-NFT mint, transfer metadata search, and other general NFT functions. It includes the library of Metaplex, and supports Arweave and nft.storage as a destination for uploading NFT content.
-
-#### <mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">phantom</mark>
-
-Connect to the Phantom wallet to enable the issuance of tokens and NFTs.
-
-#### <mark style="color:blue;">@solana-suite/</mark><mark style="color:purple;">shared</mark>
-
-Includes common functions in Solana Suite libraries, such as RPC server connection, configuration files, etc.
+```shell
+npm install @solana-suite/shared
+```
