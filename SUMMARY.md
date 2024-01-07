@@ -2,7 +2,7 @@
 
 ## Usage
 
-* [Install](README.md)
+* [Install](usage/install.md)
 * [Library Description](usage/library-description.md)
 
 ***

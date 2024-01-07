@@ -8,10 +8,10 @@
 
 @solana-suite/shared library is a dependency and does not need to be installed explicitly
 
-* Basic library
+* SPL-TOKEN Library
 
 ```shell
-npm install @solana-suite/core
+npm install @solana-suite/spl-token
 ```
 
 * Nft library
