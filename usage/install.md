@@ -14,3 +14,11 @@ installed explicitly. {% endhint %}
 ```shell
 npm install @solana-suite/'Libray Name'
 ```
+
+```shell
+yarn add @solana-suite/'Libray Name'
+```
+
+```shell
+pnpm add @solana-suite/'Libray Name'
+```
