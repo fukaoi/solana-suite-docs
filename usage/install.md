@@ -1,24 +1,33 @@
 # Install
 
-Solana Suite modules can install npm, yarn, pnpm
+Solana Suite library can install npm, yarn, pnpm
 
-{% hint style="info" %} **Good to know:** Install only the necessary libraries:
-core, nft, phantom. Libraries such as @solana/web3.js and
-@metaplex-foundation/js are installed as dependencies and do not need to be
-installed explicitly. {% endhint %}
+## Modules
 
-## Libraries
+| Name                         | Description                              |
+| ---------------------------- | ---------------------------------------- |
+| @solana-suite/airdrop        | SOL faucet for devnet, testnet           |
+| @solana-suite/compressed-nft | cNFT mint, find, transfer, gas-less      |
+| @solana-suite/memo           | add Memo in SPL-TOKEN, find memo         |
+| @solana-suite/multisig       | SOL, SPL-TOKEN multisig module           |
+| @solana-suite/phantom        | Phantom API                              |
+| @solana-suite/regular-nft    | NFT mint, find, transfer, gas-less       |
+| @solana-suite/sol-native     | SOL find, transfer, gas-less             |
+| @solana-suite/spl-token      | SPL-TOKEN mint, find, transfer, gas-less |
 
-- SPL-TOKEN Library
+## How to install
+
+- Replace {Module Name} with the name of the module you want to use from the
+  list above.
 
 ```shell
-npm install @solana-suite/'Libray Name'
+npm install {Module Name}
 ```
 
 ```shell
-yarn add @solana-suite/'Libray Name'
+yarn add {Module Name}
 ```
 
 ```shell
-pnpm add @solana-suite/'Libray Name'
+pnpm add {Module Name}
 ```
