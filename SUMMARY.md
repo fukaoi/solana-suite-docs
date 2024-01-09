@@ -10,13 +10,13 @@
 ## Modules
 
 - [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
-- [airdrop](modules/airdrop.md)
+- [compressed-nft](modules/compressed-nft.md)
+- [memo](modules/memo.md)
+- [multisig](modules/multisig.md)
+- [phantom](modules/phantom.md)
+- [regular-nft](modules/regular-nft.md)
+- [sol-native](modules/sol-native.md)
+- [spl-token](modules/spl-token.md)
 
 ## Integrations
 
