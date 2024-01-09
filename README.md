@@ -1,6 +1,6 @@
 # README
 
-![Solana Suite]()
+![Solana Suite](https://github.com/atonoy/solana-suite-docs/blob/master/assets/top-image.png?raw=true)
 
 ### What is Solana Suite
 
