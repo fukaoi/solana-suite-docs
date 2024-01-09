@@ -17,11 +17,11 @@ Solana Suite library can install npm, yarn, pnpm
 
 ## How to install
 
-- Replace {Module Name} with the name of the module you want to use from the
-  list above.
+Replace {Module Name} with the name of the module you want to use from the list
+above.
 
 ```shell
-npm install {Module Name}
+npm i {Module Name}
 ```
 
 ```shell
@@ -30,4 +30,10 @@ yarn add {Module Name}
 
 ```shell
 pnpm add {Module Name}
+```
+
+> eg. want to use SPL-TOKEN
+
+```shell
+npm i @solana-suite/spl-token
 ```
