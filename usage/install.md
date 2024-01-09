@@ -32,10 +32,8 @@ yarn add {Module Name}
 pnpm add {Module Name}
 ```
 
-<br />
-
-example:  want to use SPL-TOKEN
-
 ```shell
+// example: want to use SPL-TOKEN
+
 npm i @solana-suite/spl-token
 ```
