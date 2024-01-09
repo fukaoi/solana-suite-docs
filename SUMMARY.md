@@ -20,7 +20,9 @@
 
 ## Integrations
 
-- [mint cNFT](Integrations/mint-cnft.md)
+- [Create space, collection, mint cNFT, transfer cNFT](Integrations/mint-cnft.md)
+- [Find cNFT](Integrations/find-cnft.md)
+- [Transfer cNFT](Integrations/transfer-cnft.md)
 
 ---
 
