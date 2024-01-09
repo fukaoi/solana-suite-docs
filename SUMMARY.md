@@ -2,9 +2,12 @@
 
 ## Usage
 
-* [Install](usage/install.md)
-* [Library Description](usage/library-description.md)
+- [Install](usage/install.md)
 
-***
+## Modules
 
-* [API Reference](https://api-reference.solana-suite.org/)
+- [airdrop](modules/airdrop.md)
+
+---
+
+- [API Reference](https://api-reference.solana-suite.org/)
