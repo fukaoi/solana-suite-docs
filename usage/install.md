@@ -48,7 +48,7 @@ pnpm add {Module Name}
 
 {% endtabs %}
 
-### Exmple
+### exmple
 
 ```shell
 // use SPL-TOKEN

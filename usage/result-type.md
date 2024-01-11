@@ -5,7 +5,7 @@ commonly used in functional programming languages like Rust. Handling responses
 from functions can be done as follows. Additionally, exceptions occurring
 internally are converted to Result Type using Try().
 
-### Example1 type guard
+### example1 type guard
 
 ```js
 // success, ok  => ex1.value
@@ -20,13 +20,13 @@ if (ex1.isOk) {
 }
 ```
 
-### Example2 unwrap
+### example2 unwrap
 
 ```js
 ex2.unwrap());
 ```
 
-### Example3 map
+### example3 map
 
 ```js
 const mapped = ex3
@@ -36,7 +36,7 @@ const mapped = ex3
    )
 ```
 
-### Example4 match
+### example4 match
 
 ```js
 ex4.match(
