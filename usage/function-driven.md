@@ -1,3 +1,5 @@
+# Function Driven
+
 Solana Suite provides what you want to do on a function basis. It is easy for
 beginners because it can be achieved by calling a single function.
 
