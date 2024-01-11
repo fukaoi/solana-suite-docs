@@ -20,20 +20,38 @@ Solana Suite library can install npm, yarn, pnpm
 Replace {Module Name} with the name of the module you want to use from the list
 above.
 
+{% tabs %}
+
+{% tab title="npm" %}
+
 ```shell
 npm i {Module Name}
 ```
+
+{% endtab %}
+
+{% tab title="yarn" %}
 
 ```shell
 yarn add {Module Name}
 ```
 
+{% endtab %}
+
+{% tab title="pnpm" %}
+
 ```shell
 pnpm add {Module Name}
 ```
 
+{% endtab %}
+
+{% endtabs %}
+
+### Exmple
+
 ```shell
-// example: want to use SPL-TOKEN
+// use SPL-TOKEN
 
 npm i @solana-suite/spl-token
 ```
