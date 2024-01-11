@@ -8,3 +8,7 @@ import { Airdrop } from "@solana-suite/airdrop";
 
 await Airdrop.request("Wallet address");
 ```
+
+{% embed
+url="<https://api-reference.solana-suite.org/functions/_solana_suite_airdrop.Airdrop.request>"
+%}
