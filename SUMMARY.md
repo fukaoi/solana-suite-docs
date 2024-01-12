@@ -2,11 +2,11 @@
 - [Overview](README.md)
 
 
-## Usage
+- ## Usage
     - [Install](usage/install.md)
-- [Function Driven](usage/function-driven.md)
-- [Result Type](usage/result-type.md)
-- [Configulation](usage/configulation.md)
+    - [Function Driven](usage/function-driven.md)
+    - [Result Type](usage/result-type.md)
+    - [Configulation](usage/configulation.md)
 
 ## Modules
 
