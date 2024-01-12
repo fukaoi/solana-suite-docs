@@ -4,10 +4,11 @@
 
 ## Usage
 
-    - [Install](usage/install.md)
-    - [Function Driven](usage/function-driven.md)
-    - [Result Type](usage/result-type.md)
-    - [Configulation](usage/configulation.md)
+- [Install](usage/install.md)
+- [Function Driven](usage/function-driven.md)
+- [Result Type](usage/result-type.md)
+- [Configulation](usage/configulation.md)
+    - [test](README.md)
 
 ## Modules
 
