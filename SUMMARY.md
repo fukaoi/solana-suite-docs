@@ -3,6 +3,7 @@
 
 
 ## Usage
+
 - [Install](usage/install.md)
 - [Function Driven](usage/function-driven.md)
 - [Result Type](usage/result-type.md)
