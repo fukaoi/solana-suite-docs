@@ -7,6 +7,7 @@ Solana Suite library can install npm, yarn, pnpm
 | Name                         | Description                              |
 | ---------------------------- | ---------------------------------------- |
 | @solana-suite/airdrop        | SOL faucet for devnet, testnet           |
+| @solana-suite/config         | Configuration tool                       |
 | @solana-suite/compressed-nft | cNFT mint, find, transfer, gas-less      |
 | @solana-suite/memo           | add Memo in SPL-TOKEN, find memo         |
 | @solana-suite/multisig       | SOL, SPL-TOKEN multisig module           |
