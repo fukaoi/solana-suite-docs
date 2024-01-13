@@ -1,5 +1,3 @@
-# Configuration
-
 `@solana-suite/config`
 
 A tool to modify the config of Solana Suite. It is usually installed as

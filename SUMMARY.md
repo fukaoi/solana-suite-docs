@@ -7,11 +7,11 @@
 - [Install](usage/install.md)
 - [Function Driven](usage/function-driven.md)
 - [Result Type](usage/result-type.md)
-- [Configuration](usage/config.md)
 
 ## Modules
 
 - [airdrop](modules/airdrop.md)
+- [config](modules/config.md)
 - [compressed-nft](modules/compressed-nft.md)
 - [memo](modules/memo.md)
 - [multisig](modules/multisig.md)
