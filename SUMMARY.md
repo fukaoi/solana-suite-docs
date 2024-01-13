@@ -1,13 +1,13 @@
 # Table of contents
-- [Overview](README.md)
 
+- [Overview](README.md)
 
 ## Usage
 
 - [Install](usage/install.md)
 - [Function Driven](usage/function-driven.md)
 - [Result Type](usage/result-type.md)
-- [Configulation](usage/configulation.md)
+- [Configuration](usage/configuration.md)
 
 ## Modules
 
