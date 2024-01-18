@@ -12,7 +12,7 @@
   - [airdrop](modules/airdrop.md)
   - [config](modules/config.md)
   - [compressed-nft](modules/compressed-nft/)
-    - [CompressedNfrt Overview](modules/compressed-nft/overview.md)
+    - [CompressedNft Overview](modules/compressed-nft/overview.md)
     - [mint](modules/compressed-nft/mint.md)
   - [memo](modules/memo.md)
   - [multisig](modules/multisig.md)
