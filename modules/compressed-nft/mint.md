@@ -1,1 +1,1 @@
-# Mint
+# Mint the cNFT
