@@ -3,7 +3,7 @@ First, we create an on-chain "space" to store cNFTs.
 {% hint style="warning" %} Once the space is created initially, it can be
 utilized until the storage capacity of the space is full. {% endhint %}
 
-### example
+#### example
 
 ```ts
 import { CompressedNft } from "@solana-suite/compressed-nft";
