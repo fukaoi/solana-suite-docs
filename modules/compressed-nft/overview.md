@@ -11,8 +11,8 @@ significantly reducing costs. This approach also improves searchability.
 ## Functions
 
 - [Create a space](./space.md)
+- [Mint a collection](./mint-collection.md)
 - [Mint the cNFT](./mint.md)
 - [Find cNFT, Collection](./find.md)
-- [Mint a collection](./mint-collection.md)
 - [Transfer cNFT](./transfer.md)
 

@@ -1,3 +1,5 @@
+## Create a Space
+
 First, we create an on-chain "space" to store cNFTs.
 
 {% hint style="warning" %} Once the space is created initially, it can be
