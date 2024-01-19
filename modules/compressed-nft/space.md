@@ -1,6 +1,6 @@
 First, we create an on-chain "space" to store cNFTs.
 
-{% hint style="warn" %} Once the space is created initially, it can be
+{% hint style="warning" %} Once the space is created initially, it can be
 utilized until the storage capacity of the space is full. {% endhint %}
 
 ### example
@@ -20,6 +20,5 @@ await inst.submit();
 
 The available space sizes are: `8`, `16,000`, `1,00,000`, `16,700,000`, `67,000,000`, `1,000,000,000`
 
-{% embed
-url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.createSpace"
-%}
+
+{% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.createSpace" %}
