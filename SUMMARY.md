@@ -15,6 +15,7 @@
   - [compressed-nft](modules/compressed-nft/)
     - [Compressed NFT Overview](modules/compressed-nft/overview.md)
     - [Create a space](modules/compressed-nft/space.md)
+    - [Calculate a space](modules/compressed-nft/calculate-space.md)
     - [Mint a collection](modules/compressed-nft/mint-collection.md)
     - [Mint the cNFT](modules/compressed-nft/mint.md)
   - [memo](modules/memo.md)
