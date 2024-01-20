@@ -8,4 +8,4 @@ import { CompressedNft } from "@solana-suite/compressed-nft";
 
 await CompressedNft.calculateSpaceCost(10000);
 ```
-{% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.createSpace" %}
+{% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.calculateSpaceCost" %}
