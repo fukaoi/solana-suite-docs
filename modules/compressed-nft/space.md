@@ -11,7 +11,7 @@ import { CompressedNft } from "@solana-suite/compressed-nft";
 
 const inst = await CompressedNft.createSpace(
   "7tm6RBvnYNUb4N6Pvkc4JMk1AZX...", // secret key of the space owner
-  10000, // space size
+  10000,                            // space size
 );
 
 await inst.submit();
