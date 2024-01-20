@@ -1,9 +1,8 @@
-## Create a Space
-
 First, we create an on-chain "space" to store cNFTs.
 
 {% hint style="warning" %} Once the space is created initially, it can be
 utilized until the storage capacity of the space is full. {% endhint %}
+
 
 ### example
 
@@ -11,8 +10,8 @@ utilized until the storage capacity of the space is full. {% endhint %}
 import { CompressedNft } from "@solana-suite/compressed-nft";
 
 const inst = await CompressedNft.createSpace(
-  "Secret key of the space owner",
-  "space size",
+  "7tm6RBvnYNUb4N6Pvkc4JMk1AZX...", // secret key of the space owner
+  10000, // space size
 );
 
 await inst.submit();
