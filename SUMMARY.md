@@ -9,11 +9,13 @@
   - [Result Type](usage/result-type.md)
 
 - [Modules](modules/)
+
   - [airdrop](modules/airdrop.md)
   - [config](modules/config.md)
   - [compressed-nft](modules/compressed-nft/)
     - [Compressed NFT Overview](modules/compressed-nft/overview.md)
     - [Create a space](modules/compressed-nft/space.md)
+    - [Mint a collection](modules/compressed-nft/mint-collection.md)
     - [Mint the cNFT](modules/compressed-nft/mint.md)
   - [memo](modules/memo.md)
   - [multisig](modules/multisig.md)
@@ -23,9 +25,9 @@
   - [spl-token](modules/spl-token.md)
 
 - [Integrations](integrations/)
-    - [Create space, collection, mint cNFT, transfer cNFT](integrations/mint-cnft.md)
-    - [Find cNFT](integrations/find-cnft.md)
-    - [Transfer cNFT](integrations/transfer-cnft.md)
+  - [Create space, collection, mint cNFT, transfer cNFT](integrations/mint-cnft.md)
+  - [Find cNFT](integrations/find-cnft.md)
+  - [Transfer cNFT](integrations/transfer-cnft.md)
 
 ---
 
