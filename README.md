@@ -1,6 +1,8 @@
 # Overview
 
-![Solana Suite](https://github.com/atonoy/solana-suite-docs/blob/master/assets/top-image.png?raw=true)
+<p align="center">
+  <img src="https://github.com/atonoy/solana-suite/assets/186659/e298a7e5-eb59-41b4-8630-be8ba09be403" alt="Solana Suite" width="auto" height="auto">
+</p>
 
 ## What is Solana Suite
 
