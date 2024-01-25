@@ -32,5 +32,5 @@
 
 ---
 
-- [API Reference](https://solana-suite-api-reference.pages.dev)
+- [API Reference]([https://api-reference.solana-suite.org)
 - [Github](https://github.com/atonoy/solana-suite)
