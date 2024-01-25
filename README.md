@@ -1,7 +1,7 @@
 # Overview
 
 <p align="center">
-  <img src="https://github.com/atonoy/solana-suite/assets/186659/e298a7e5-eb59-41b4-8630-be8ba09be403" alt="Solana Suite" width="auto" height="auto">
+  <img src="https://github.com/atonoy/solana-suite/assets/186659/30b0b2dc-c636-4f1d-886d-2be008e304ca" alt="Solana Suite" width="70%" height="70%">
 </p>
 
 ## What is Solana Suite
