@@ -6,10 +6,9 @@
 
 ## What is Solana Suite
 
-Solana client SDK for inexperienced users, developed in Github with OSS and
-published as an NPM module.
-We have experience in numerous token economy developments with Solana Suite
-
+Solana Suite is an SDK for Newbies. Even if you are not familiar with Solana or
+blockchain, you can create blockchain services by simply calling functions while
+referring to the documentation.
 
 ## Feature
 
