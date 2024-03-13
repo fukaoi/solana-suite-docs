@@ -12,7 +12,7 @@
 - [Usage](usage/)
   - [Airdrop in devnet](usages/airdrop.md)
   - [Compressed NFT(cNGFT)](usages/compressed-nft/)
-    - [Compressed NFT Overview](usages/compressed-nft/overview.md)
+    - [Overview](usages/compressed-nft/overview.md)
     - [Create a space](usages/compressed-nft/space.md)
     - [Calculate a space](usages/compressed-nft/calculate-space.md)
     - [Mint a collection](usages/compressed-nft/mint-collection.md)
