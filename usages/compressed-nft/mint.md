@@ -15,7 +15,7 @@ import { CompressedNft } from "@solana-suite/compressed-nft";
 const inst = await CompressedNft.mint(
   owner.secret,
   {
-    filePath: "./lion.png", // Upload image path
+    filePath: "./lion.png", // Upload image path or uri
     name: "Lion ",          // mint name
     symbol: "LION",         // mint symbole
     royalty: 20,            // royalty percentage
@@ -26,8 +26,9 @@ const inst = await CompressedNft.mint(
 
 await inst.submit();
 ```
-{% hint style="info" %} filePath or uri: 
+{% hint style="info" %} `filePath` or `uri`: 
 You can specify a URI in addition to a filePath. The URI allows you to specify the URL of already uploaded content, such as images or videos.
+When you specify a filePath, the content upload is handled in the background, which means that the time for minting to complete may vary depending on the size of the content.
 {% endhint %}
 
 
