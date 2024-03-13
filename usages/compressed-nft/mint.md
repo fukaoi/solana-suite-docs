@@ -7,8 +7,6 @@ store the addresses of the Space and mint collection in an RDB or Config file.
 
 [Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
 
-basic usage
-
 ```ts
 import { CompressedNft } from "@solana-suite/compressed-nft";
 
