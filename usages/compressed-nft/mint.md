@@ -24,9 +24,8 @@ const inst = await CompressedNft.mint(
 
 await inst.submit();
 ```
+---
 
 [Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
 
-{% embed
-url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.mint"
-%}
+{% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.mint" %}
