@@ -7,7 +7,7 @@ nft.storage.
 
 [Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
 
-> upload content file(e.g: image, movie,,,) in nftStorage
+#### upload content file(e.g: image, movie,,,) in nftStorage
 
 ```ts
 import { Storage } from "@solana-suite/storage";
