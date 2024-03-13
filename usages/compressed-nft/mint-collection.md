@@ -6,7 +6,7 @@ A Collection is a mechanism for grouping Solana NFTs.
 import { CompressedNft } from "@solana-suite/compressed-nft";
 
 const inst = await CompressedNft.mintCollection(owner.secret, {
-  filePath: "./animals.jpeg",  // Upload image path
+  filePath: "./animals.jpeg",  // upload image path
   name: "Animals Collection",  // collection name
   symbol: "ANIC",              // collection symbol
 });

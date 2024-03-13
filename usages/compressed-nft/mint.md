@@ -13,7 +13,7 @@ import { CompressedNft } from "@solana-suite/compressed-nft";
 const inst = await CompressedNft.mint(
   owner.secret,
   {
-    filePath: "./lion.png", // Upload image path or uri
+    filePath: "./lion.png", // upload image path or uri
     name: "Lion ",          // mint name
     symbol: "LION",         // mint symbole
     royalty: 20,            // royalty percentage
