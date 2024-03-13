@@ -16,12 +16,12 @@ const inst = await CompressedNft.createSpace(
 
 await inst.submit();
 ```
+---
 
 {% hint style="info" %} space size: 
 The available space sizes are: `8`, `16,000`, `1,00,000`, `16,700,000`, `67,000,000`, `1,000,000,000`
 {% endhint %}
 
-
-
+---
 
 {% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.createSpace" %}

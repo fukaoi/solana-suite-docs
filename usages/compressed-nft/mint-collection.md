@@ -13,5 +13,6 @@ const inst = await CompressedNft.mintCollection(owner.secret, {
 
 await inst.submit();
 ```
+---
 
 {% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.mintCollection" %}
