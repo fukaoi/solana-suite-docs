@@ -5,6 +5,8 @@ store the addresses of the Space and mint collection in an RDB or Config file.
 
 ### example
 
+[Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
+
 basic usage
 
 ```ts
@@ -24,8 +26,11 @@ const inst = await CompressedNft.mint(
 
 await inst.submit();
 ```
----
+{% hint style="info" %} filePath or uri: 
+You can specify a URI in addition to a filePath. The URI allows you to specify the URL of already uploaded content, such as images or videos.
+{% endhint %}
 
-[Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
+
+---
 
 {% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_compressed_nft.CompressedNft.mint" %}
