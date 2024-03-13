@@ -17,7 +17,7 @@
     - [Calculate a space](usages/compressed-nft/calculate-space.md)
     - [Mint a collection](usages/compressed-nft/mint-collection.md)
     - [Mint the cNFT](usages/compressed-nft/mint.md)
-  - [Upload to decentrized storage](usages/upload-storage)
+  - [Upload to decentrized storage](usages/upload-storage.md)
 
 ---
 
