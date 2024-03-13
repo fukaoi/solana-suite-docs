@@ -9,7 +9,9 @@ on mainnet.
 
 import { Airdrop } from "@solana-suite/airdrop";
 
-await Airdrop.request("Wallet address");
+await Airdrop.request(
+    "4nfN9iymjRaYBpiy1j..."  // Wallet address
+);
 
 ```
 

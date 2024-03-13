@@ -11,15 +11,15 @@ store the addresses of the Space and mint collection in an RDB or Config file.
 import { CompressedNft } from "@solana-suite/compressed-nft";
 
 const inst = await CompressedNft.mint(
-  owner.secret,
+  "HTpCqDfm7NwxKrwaQw...",  // mint's owner Secret 
   {
     filePath: "./lion.png", // upload image path or uri
     name: "Lion ",          // mint name
     symbol: "LION",         // mint symbole
     royalty: 20,            // royalty percentage
   },
-  "space address",          // space address
-  "collection address",     // collection address
+  "5am8mNavUnVQvdjVL3...",  // space address
+  "4nfN9iymjRaYBpiy1j...",  // collection address
 );
 
 await inst.submit();
