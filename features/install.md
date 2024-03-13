@@ -14,6 +14,7 @@ Solana Suite library can install npm, yarn, pnpm
 | @solana-suite/phantom        | Phantom API                              |
 | @solana-suite/regular-nft    | NFT mint, find, transfer, gas-less       |
 | @solana-suite/sol-native     | SOL find, transfer, gas-less             |
+| @solana-suite/storage        | Decentrized storage: nft.storage, Arweave|
 | @solana-suite/spl-token      | SPL-TOKEN mint, find, transfer, gas-less |
 
 ## How to install
