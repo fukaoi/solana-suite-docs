@@ -5,7 +5,7 @@ nft.storage.
 
 ### example
 
-[Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration11-compressed-nft.ts)
+[Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration13-upload-content.ts)
 
 upload content file(e.g: image, movie,,,) in nftStorage
 
@@ -24,9 +24,9 @@ upload content file(e.g: image, movie,,,) in arweave
 import { Storage } from "@solana-suite/storage";
 
 await Storage.uploadFile(
-    "./animals.jpeg",         // upload content file path in local path  
-    "arweave",                // set storage type
-    "HTpCqDfm7NwxKrwaQww..."  // fee payer,s secret
+    "./animals.jpeg",                     // upload content file path in local path  
+    "arweave",                            // set storage type
+    {feePayer: "HTpCqDfm7NwxKrwaQww..."}  // fee payer,s secret
 );
 ```
 {% hint style="warnning" %} 
