@@ -31,9 +31,6 @@ await Storage.uploadFile(
     {feePayer: "HTpCqDfm7NwxKrwaQww..."}  // fee payer,s secret
 );
 ```
-{% hint style="warnning" %} 
-Arweave is a paid service, so specifying the fee payer is always necessary.
-{% endhint %}
 
 
 upload nft metadata(json) 
@@ -71,6 +68,11 @@ const res = await Storage.uploadData(
     {feePayer: "HTpCqDfm7NwxKrwaQww..."} // fee payer,s secret 
 );
 ```
+
+{% hint style="warnning" %} 
+Arweave is a paid service, so specifying the fee payer is always necessary.
+{% endhint %}
+
 ---
 
 {% embed url="https://api-reference.solana-suite.org/modules/_solana_suite_storage.Storage" %}
