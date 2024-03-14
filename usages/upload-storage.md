@@ -34,7 +34,22 @@ Arweave is a paid service, so specifying the fee payer is always necessary.
 {% endhint %}
 
 
-upload nft metadata(json) 
+upload nft metadata(json) in nft.storage 
+
+```ts
+import { Storage } from "@solana-suite/storage";
+
+const meta = {
+    name: "Tiger",                    // NFT's name in offchain   
+    symbol: "TIGER",                  // NFT's symbol in offchain 
+    description: "tiger description", // optional field 
+    image: "https://......",          // Uploaded image url 
+};
+
+const res = await Storage.uploadData(meta, "nftStorage");
+```
+
+upload nft metadata(json) in arweave
 
 ```ts
 import { Storage } from "@solana-suite/storage";
@@ -46,7 +61,11 @@ const meta = {
     image: "https://......", // Uploaded image url 
 };
 
-const res = await Storage.uploadData(meta, "nftStorage");
+const res = await Storage.uploadData(
+    meta, 
+    "arweave", 
+    {feePayer: "HTpCqDfm7NwxKrwaQww..."} // fee payer,s secret 
+);
 ```
 ---
 
