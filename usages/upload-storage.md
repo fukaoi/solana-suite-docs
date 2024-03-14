@@ -50,4 +50,4 @@ const res = await Storage.uploadData(meta, "nftStorage");
 ```
 ---
 
-{% embed url="https://api-reference.solana-suite.org/functions/_solana_suite_airdrop.Airdrop.request" %}
+{% embed url="https://api-reference.solana-suite.org/modules/_solana_suite_storage.Storage" %}
