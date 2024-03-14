@@ -7,7 +7,9 @@ nft.storage.
 
 [Full example code](https://github.com/fukaoi/solana-suite/blob/main/examples/integration13-upload-content.ts)
 
-upload content file(e.g: image, movie,,,) in nftStorage
+upload content file(e.g: image, movie,,,)
+
+> nst.storage
 
 ```ts
 import { Storage } from "@solana-suite/storage";
@@ -18,7 +20,7 @@ await Storage.uploadFile(
 );
 ```
 
-upload content file(e.g: image, movie,,,) in arweave
+> Arweave
 
 ```ts
 import { Storage } from "@solana-suite/storage";
@@ -34,7 +36,9 @@ Arweave is a paid service, so specifying the fee payer is always necessary.
 {% endhint %}
 
 
-upload nft metadata(json) in nft.storage 
+upload nft metadata(json) 
+
+> nft.storage
 
 ```ts
 import { Storage } from "@solana-suite/storage";
@@ -49,7 +53,7 @@ const meta = {
 const res = await Storage.uploadData(meta, "nftStorage");
 ```
 
-upload nft metadata(json) in arweave
+> arweave
 
 ```ts
 import { Storage } from "@solana-suite/storage";
